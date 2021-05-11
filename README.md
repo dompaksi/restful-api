@@ -5,7 +5,7 @@ It provides:
 
 - Swagger integration
 - Unit tests and test coverage check
-- H2 integrated sample route
+- Flyway integrated sample route
 
 ## Version
 
